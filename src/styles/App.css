@@ -1,0 +1,62 @@
+.navbar{
+  background-color: #dc3545!important;
+  margin-bottom: 20px;
+}
+
+.icon{
+  height: 45px;
+}
+
+.card{
+  box-shadow: rgb(0 0 0 / 11%) 1.95px 2px 2.6px;
+  border: 1px solid rgba(0,0,0,.125);
+}
+
+.col{
+  display: flex;
+  justify-content: center;
+}
+
+.button{
+  display: flex !important;
+  margin: 0px auto;
+  align-items: center;
+  color: #000;
+  font-weight: 700;
+  margin-top: 26px;
+  font-size: 18px;
+  background-color: #f2f2f2;
+  border: 3px solid;
+  border-color: #cecccc;
+  border-radius: 8px;
+  padding: 1px 14px;
+}
+
+.button:hover{
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+a{
+  text-decoration: none !important;
+}
+
+.card-title {
+  margin-bottom: 0.5rem;
+  text-align: left;
+  font-size: 24px !important;
+  color: #000;
+}
+
+.img-card{
+  margin: auto;
+  background: #f2f2f2;
+}
+
+.pokeball-icon{
+  height: 51px;
+}
+
+.badge{
+  margin-right: 9px;
+}
